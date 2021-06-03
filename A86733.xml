@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An humble caution concerning the danger of removing godly and approved ministers out of sequestrations.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86733</idno><idno type="EEBO-CITATION">99867831</idno>
+  <idno type="VID">168892</idno>
+  <idno type="EEBO-PROQUEST">2248512639</idno>
+  
+            <idno type="STC">Wing H3405</idno>
+            <idno type="STC">Thomason E1030_7</idno>
+            <idno type="STC">ESTC R208913</idno>
+            <idno type="PROQUEST">99867831</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867831e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86733)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168892)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 152:E1030[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An humble caution concerning the danger of removing godly and approved ministers out of sequestrations.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Thomas Ratcliffe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 26".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Clergy --  Early works to 1800.</term>
+               <term type="topical_term">Clergy --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168892:1"/>
+            <p>AN Humble Caution Concerning the danger of removing godly and approved MINISTERS Out of Sequestrations.</p>
+            <figure>
+               <figDesc>woodcut of flower</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Thomas Ratcliffe.</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168892:2"/>
+            <argument>
+               <p>Considering the Kings gracious Proclamation, prohibiting all riotous invasions upon Ministers and others; setled by former Authority; and to prevent the Evils that may follow upon the removall of godly Ministers from their places, wherein they are at present setled,</p>
+               <p>
+                  <hi>The Question is humbly discussed as followeth:</hi>
+               </p>
+            </argument>
+            <pb n="3" facs="tcp:168892:2"/>
+            <head>
+               <hi>The Question,</hi> Whether it be fitting to remove those Ministers that are setled in Sequestrations for life by for<g ref="char:EOLhyphen"/>mer Authority, whether legal or pretended?</head>
+            <p>For the Negative part, that it is not convenient to re<g ref="char:EOLhyphen"/>move such Ministers.</p>
+            <p n="1">1. <seg rend="decorInit">I</seg>N all deliberations, especially about matters of great consequence, we should ask counsell of God by his Word;<note place="margin">Prov. 16.2.</note> it being not safe for the wi<g ref="char:EOLhyphen"/>sest or highest of men to be led by their owne counsels. Let therefore the Word of God be consulted as the Rule, that we may know what is the mind and counsell of God in the case.</p>
+            <p>Now the Word gives a plain and good Caution herein, <hi>Touch not mine Anointed, and do my Prophets no harm.</hi>
+               <note place="margin">Psal. 105.15.</note> And would this be no harm to them to remove them from their holy service, to which they are call'd and dedicated of God?
+<pb n="4" facs="tcp:168892:3"/>Surely the Ministers of the Gospel whom Christ hath given in mercy to his Church, and were put in by divine Providence under former Authority (as his Majesty notes) whether le<g ref="char:EOLhyphen"/>gall or pretended, if they be judged to be faithfull, holy and zealous for God, and giving no offence, it cannot be pleasing to God to attempt their extrusion and unsettlement, for whatsoever injury and ill usage is offered to them, is ten<g ref="char:EOLhyphen"/>derly took to heart with the Lord Jesus Christ; and seeing all power in Heaven and earth is delegated from Christ, and to be used for Christ, how ill will he take it from his servants, if to pleasure friends, they should go contrary to their Comis<g ref="char:EOLhyphen"/>sion in a matter of such importance; which God avert?</p>
+            <p n="2">2. How incommodious will such a course be to the Church of God, and the worship of God, which the Lord hath so much respect to, and Princes must chiefly have respect to.</p>
+            <p>It hath pleased God to set in the Firmament of his Church in <hi>England,</hi> and Dominions adjoyning, many glorious starres richly gifted with the spirit of Grace, and powerfully instru<g ref="char:EOLhyphen"/>mentall in their testimony for Christ, and conversion of souls that belong to the election of Grace, setled in the room of many ejected (as we will suppose) upon articles of scandal or incompetency for so high a work; Now if those that Christ hath gifted for the Pastoral Charge, and are happy and successfull Instruments therein, should be shook out, and the old restored or as bad, how much would the worship of God be impaired, and the Church of God disturbed and disheart<g ref="char:EOLhyphen"/>ned.</p>
+            <p n="3">3. Against the removal of such Ministers, what a breach would this make in the affections of the Kings best sub<g ref="char:EOLhyphen"/>jects, in this day wherein Peace should be fosterd amongst them, as the onely Cement that will unite them one to another, and to the King, whose establishment chiefly depends upon the love of his good people, and wherein his Majestie (I believe) takes more satisfaction then in the high honour of his place and royal Soveraignty.</p>
+            <pb n="5" facs="tcp:168892:3"/>
+            <p>For upon the ejection of such godly Ministers, their af<g ref="char:EOLhyphen"/>fections, and the affections of their distressed Families that depend upon them, and the affections of their friends and Allyes that condole with them, and the affections of the Church and precious people of God that are under their charge, and the affections of their Neighbour-associated Mi<g ref="char:EOLhyphen"/>nisters, are hereby greatly hazarded, which will be such a loss to the King, as the gratifying of a few Patrons or sequestred persons will never be able to make up in these dayes, the dis<g ref="char:EOLhyphen"/>content being given thousands; the gratification but a few score.</p>
+            <p n="4">4. What a losse it will be to the Kings Majesty to lose the prayers of so many powerfull godly Ministers, who pre<g ref="char:EOLhyphen"/>fer publick prayers to God in the Churches for the pro<g ref="char:EOLhyphen"/>sperity and happinesse of the King, a priviledge which even the King of <hi>Persia</hi> knew how to prize, The Prophets of God being truly the Chariots and Horsemen of <hi>Israel</hi> as the King of <hi>Israel,</hi> called <hi>Elisha,</hi>
+               <note place="margin">Ezra 6.10.</note> and more advantagious to Kings and Governours than their most puissant Armies and multitudes for their establishment.</p>
+            <p n="5">5. Let it be considered, What judgements and Ruine have broke in from our displeased God, upon those that have affronted and evilly intreated the faithfull Ministers of God, and attempted their hurt:</p>
+            <p>To passe by the retaliation and counter-passion inflicted upon King <hi>Abimelech</hi> and all his Family for wronging but one Prophet, <hi>Abraham.</hi>
+            </p>
+            <p>What dreadfull destruction <hi>Jezebel</hi> was devoured with for persecuting the Prophets of the Lord in her time.</p>
+            <p>What dreadfull ejection and desertion befell <hi>Saul</hi> and his House for neglecting the counsell of God by <hi>Samuel,</hi> and slaying the Priests?</p>
+            <p>What desolation upon <hi>Judah</hi> and <hi>Israel</hi> by a miserable te<g ref="char:EOLhyphen"/>dious Captivity for mocking and abusing the faithfull Mini<g ref="char:EOLhyphen"/>sters of God.</p>
+            <pb n="6" facs="tcp:168892:4"/>
+            <p>But to look only home to the over-turnings God hath wrought in this land of ours of late years?</p>
+            <p>What breaches did God recompence the Parliament of <hi>England</hi> with for their refusall of the faithfull Ministers, that God gave them warning by in their day, making their own servants their severe Chastisers and Disturbers often.</p>
+            <p>And when that little <hi>Junto</hi> (so much exposed to the scorn of the people of <hi>England</hi>) amongst other rekes, had secretly plotted the taking off of all the Ministers in the land, intend<g ref="char:EOLhyphen"/>ing to set up those they should like, or perhaps none at all, within a day or two, that their plot was to have took effect, God broke them to pieces, 1653.</p>
+            <p>Afterwards, when other Governours started up, and streng<g ref="char:EOLhyphen"/>thened the false spirit of Prophesie in erroneous Schisma<g ref="char:EOLhyphen"/>ticks and Phanaticks, against the faithfull Ministers of God, God fill'd them full of trouble, and broke them with breach upon breach, and blow'd upon their high innovations, and dissolved their <hi>Chym<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ra</hi>'s often, though they thought them woven with a <hi>Gordion's</hi> knot.</p>
+            <p>And lastly, for it were tedious to bring forth the examples that have abounded in this age.</p>
+            <p>When that Party that assum'd to themselves to be a Com<g ref="char:EOLhyphen"/>mittee of Safety, voted down the maintenance of the Ministers by Tythes, God instantly shook them with terrours, and cau<g ref="char:EOLhyphen"/>sed their hands to let fall their work, and melted them away as the snow before the sun.</p>
+            <p>Thus when the Ministers of God, who are Gods chief or<g ref="char:EOLhyphen"/>dinary Counsellours upon earth, were laid aside out of Coun<g ref="char:EOLhyphen"/>sels, first Civil, then Ecclesiastical, their holy Office despised and yet invaded, their persons rayled at with the reproaches of hell, and their Patrimony and maintenance sacrilegiously took from them, and diverted to strangers: And there was none of those that undertook the Government that would help this, God looks abroad into Forraign Nations for a foster-Father, and call'd for the banished home to let loose his Captives, and vindicate and recover the just rights of the Church, even the son of ancient Kings: and that Royall
+<pb n="7" facs="tcp:168892:4"/>Cedar that he hath now planted with his own right hand in our <hi>Lebanon,</hi> and had there not been such a gracious Prince to be found who is our own flesh, I doubt not to say it, but God had called in a Forraigner from <hi>France</hi> or <hi>Spaine</hi> to have cha<g ref="char:EOLhyphen"/>stised the wickednesse of the land grown to that height, untill he had fulfill'd all his pleasure towards his Church by them. And therefore I trust that our most gracious God, who hath called the King to his Fathers royall Throne, will over-rule his heart and Counsels, so as to make him a Patron of the Church and godly Pastours thereof, and not suffer him to taint his hands with the disturbance of them. For certain it is, that God will be sure to recompence those that annoy or grieve his faithfull Ministers in all ages, the persecution of such being one of the main causes of the subversion of Go<g ref="char:EOLhyphen"/>vernours and Governments.</p>
+            <p n="6">6. Many Ministers setled in Sequestrations have paid their First-fruits for their places, and how shall they be recompen<g ref="char:EOLhyphen"/>sed; Others that are in sequestrations upon the death of in<g ref="char:EOLhyphen"/>cumbents; are to pay First-fruits: and hereby the King receives the same advantage that Patrons can give by their presen<g ref="char:EOLhyphen"/>tations. Therefore the King receives no damage by the con<g ref="char:EOLhyphen"/>tinuation of such Ministers in their possessions, and the sub<g ref="char:EOLhyphen"/>jects receive so great dammage by their unsettlement; I think it ill service to presse the King, whose heart is gra<g ref="char:EOLhyphen"/>ciously affected of God towards his people, to do such an act as will cause a cry of his subjects to Heaven, and no ad<g ref="char:EOLhyphen"/>vantage to his Royal Majesty on earth.<note place="margin">Prov. 16.12.</note>
+               <hi>For it is an abomi<g ref="char:EOLhyphen"/>nation to Kings to commit wickednesse, but the Throne is esta<g ref="char:EOLhyphen"/>blished by Righteousnesse.</hi>
+            </p>
+            <p n="7">7. Presentations that belong to Cathedral Churches cannot be restored to them, untill the full restitution of the former Government; therefore to gratifie some Patrons, and not all, will be counted partiality, and breed discontents that way.</p>
+            <pb n="8" facs="tcp:168892:5"/>
+            <p n="8">8. From a <hi>Dilemma</hi> in the Case. The continuation of Ministers in their places, must needs render the King more glorious in the eyes of all Parties than their dissettlement is like to do.</p>
+            <p>For such an Act of Grace cannot but endear the King to those that are thus graciously continued in their place; nei<g ref="char:EOLhyphen"/>ther can it also but render the King glorious in the eyes of all others: In regard it gives them hope of the like Grace in some other way, if they be truly deserving of it.</p>
+            <p n="9">9. Many of the former Incumbents are dead, and so can<g ref="char:EOLhyphen"/>not be restored, and the present Incumbents are good suffici<g ref="char:EOLhyphen"/>ent men, and need not be removed.</p>
+            <p>Therefore if no danger arise by the continuation of the present Ministers in their possessions, and much evill conse<g ref="char:EOLhyphen"/>quence be like to ensue upon their removal, who that is of a sober judgement, and not violently set upon his own pro<g ref="char:EOLhyphen"/>ject, but will conclude it more fitting to continue such Mi<g ref="char:EOLhyphen"/>nisters than remove them?</p>
+            <p>
+               <hi>FINIS.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
